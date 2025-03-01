@@ -30,8 +30,7 @@ The **GM1356 Sound Level Meter Data Logger** is a Go-based application that inte
 
 1. Clone this repository:
    ```sh
-   git clone https://github.com/invaliddev403/usb-decibel-meter
-.git
+   git clone https://github.com/invaliddev403/usb-decibel-meter.git
    cd usb-decibel-meter
 
    ```
