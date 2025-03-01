@@ -2,11 +2,11 @@
 
 ## Overview
 
-The **GM1356 Sound Level Meter Data Logger** is a Go-based application that interfaces with the GM1356 sound level meter over HID to read real-time decibel levels, extract measurement metadata (mode, frequency mode, range), and log the data to a JSON-formatted output and optionally a CSV file.
+The **USB Sound Level Meter Data Logger** is a Go-based application that interfaces with cheap USB sound level meters over HID to read real-time decibel levels, extract measurement metadata (mode, frequency mode, range), and log the data to a JSON-formatted output and optionally a CSV file.
 
 ## Features
 
-- **Read real-time decibel levels** from the GM1356 device
+- **Read real-time decibel levels** from the GM1356 or similar device
 - **Identify measurement mode** (Fast/Slow) and frequency mode (dBA/dBC)
 - **Determine measurement range** (30-130 dB, 30-80 dB, etc.)
 - **Log output to JSON format** in the terminal
