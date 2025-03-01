@@ -17,7 +17,7 @@ The **GM1356 Sound Level Meter Data Logger** is a Go-based application that inte
 
 ### Hardware
 
-- GM1356 Sound Level Meter
+- GM1356 Sound Level Meter or Similar Model with vendorID  = 25789 (0x64bd) and productID = 29923 (0x74e3)
 - USB connection to a computer
 
 ### Software
