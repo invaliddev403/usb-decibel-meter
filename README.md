@@ -1,4 +1,4 @@
-# GM1356 Sound Level Meter Data Logger
+# USB Sound Level Meter Data Logger
 
 ## Overview
 
